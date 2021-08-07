@@ -1,3 +1,6 @@
+# Credits: Tech with Tim tutorial
+# YT link:https://youtu.be/Q-__8Xw9KTM
+
 import pygame
 import os
 import random
