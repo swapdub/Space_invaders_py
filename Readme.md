@@ -1,4 +1,5 @@
-# This repo was made possible by following TechWithTim's tutorial 
+# Space Invaders using Pygame
+### Note: This repo was made possible by following several tutorials
 ## Goals Achieved
 - Understand basics of game development
 - Learn and Practice fundamentals of Pygame
